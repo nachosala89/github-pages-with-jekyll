@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Jekill and Github Pages"
 ---
 
-I'm glad you are here. I plan to talk about ...
+This is my first attempt with this technologies 
