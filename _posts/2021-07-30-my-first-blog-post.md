@@ -1,4 +1,7 @@
-Falleció Dusty Hill, bajista de ZZ Top que integró la banda durante más de 50 años
+---
+title: "Falleció Dusty Hill, bajista de ZZ Top que integró la banda durante más de 50 años"
+date: 2021-07-30
+---
 
 El bajista de ZZ Top, Dusty Hill, que tocó con el trío de blues-rock de Texas durante más de 50 años, murió el martes a los 72 años. Su representante confirmó la muerte del músico, aunque informó que, al momento, se desconoce la causa del fallecimiento.
 
